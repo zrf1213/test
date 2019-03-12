@@ -1,0 +1,2 @@
+通过ip地址获取主机名 :: nbtstat -A ip
+查找域名对应的ip :: http://ipaddress.com/ip_lookup/
