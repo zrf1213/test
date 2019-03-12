@@ -1,2 +1,3 @@
 通过ip地址获取主机名 :: nbtstat -A ip
 查找域名对应的ip :: http://ipaddress.com/ip_lookup/
+创建windows 大文件 :: fsutil file createnew c:\1GB.txt 1073741824
